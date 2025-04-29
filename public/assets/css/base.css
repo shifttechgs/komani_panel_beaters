@@ -7,9 +7,9 @@ INDEX:
     04 - Helper class
     05 - Social icons
     06 - Header
-    07 - Bootstrap Overwrite 
-    08 - Swiper 
-    09 - Scroll To Top 
+    07 - Bootstrap Overwrite
+    08 - Swiper
+    09 - Scroll To Top
     10 - Search Box
 ******************************/
 
@@ -18,7 +18,7 @@ INDEX:
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet');
 
 :root {
-	--pbmit-global-color: #0036ff;
+	--pbmit-global-color: #041b6c;
 	--pbmit-global-color-rgb: 0, 54, 255;
 	--pbmit-secondary-color: #001837;
 	--pbmit-secondary-color-rgb: 0, 24, 55;
@@ -28,7 +28,7 @@ INDEX:
 	--pbmit-blackish-color: #151313;
 	--pbmit-blackish-color-rgb: 21, 19, 19;
 	--pbmit-link-color-normal: #151313;
-	--pbmit-link-color-hover: #0036ff;
+	--pbmit-link-color-hover: #041b6c;
 	--pbmit-responsive-breakpoint: 1200px;
 
 	--pbmit-body-typography-font-family: "Raleway", sans-serif;
@@ -36,11 +36,11 @@ INDEX:
 	--pbmit-body-typography-font-size: 15px;
 	--pbmit-body-typography-line-height: 1.6;
 	--pbmit-body-typography-color: #565656;
-	
+
 	--pbmit-heading-typography-font-family: "Sora", sans-serif;
 	--pbmit-heading-color: #151313;
 	--pbmit-heading-font-variant: 700;
-	
+
 	--pbmit-btn-typography-font-family: "Sora", sans-serif;
 	--pbmit-btn-typography-variant: 600;
 	--pbmit-btn-typography-font-size: 15px;
@@ -48,7 +48,7 @@ INDEX:
 }
 
 /*----------------------------------------*/
-/* 00 - General 
+/* 00 - General
 /*----------------------------------------*/
  html {
      font-family: sans-serif;
@@ -202,7 +202,7 @@ INDEX:
      box-shadow: none;
 }
 /*----------------------------------------*/
-/* 01 - Typography 
+/* 01 - Typography
 /*----------------------------------------*/
  body {
      font-family:var(--pbmit-body-typography-font-family);
@@ -392,7 +392,7 @@ INDEX:
 }
 
 /*----------------------------------------*/
-/* 02 - Background Color 
+/* 02 - Background Color
 /*----------------------------------------*/
  body .pbmit-bg-color-global{
      background-color: var(--pbmit-global-color);
@@ -414,7 +414,7 @@ INDEX:
 }
 
 /*----------------------------------------*/
-/* 03 - Background Position & Size 
+/* 03 - Background Position & Size
 /*----------------------------------------*/
  .bg-cover{
     background-size: cover;
@@ -442,7 +442,7 @@ INDEX:
 }
 
 /*----------------------------------------*/
-/* 04 - Helper Class 
+/* 04 - Helper Class
 /*----------------------------------------*/
 .section-lg{
 	padding-top: 100px;
@@ -468,22 +468,22 @@ INDEX:
 }
 
 /*----------------------------------------*/
-/* 05 - Social icons 
+/* 05 - Social icons
 /*----------------------------------------*/
-ul.pbmit-social-links, 
+ul.pbmit-social-links,
 ul.pbmit-contact-info{
 	margin: 0;
     padding: 0;
     list-style: none;
 }
-.pbmit-social-links li, 
+.pbmit-social-links li,
 .pbmit-contact-info li {
     display: inline-block;
     vertical-align: top;
 }
 
 /*----------------------------------------*/
-/* 06 - Header 
+/* 06 - Header
 /*----------------------------------------*/
  .navbar-brand .navbar-brand-item {
      height: 60px;
@@ -622,7 +622,7 @@ ul.pbmit-contact-info{
 }
 .fadeInDown{
 	animation-name:fadeInDown
-} 
+}
 @keyframes fadeInDown{
 	from{
 		opacity:0;
@@ -644,7 +644,7 @@ ul.pbmit-contact-info{
 }
 
 /*----------------------------------------*/
-/* 07 - Bootstrap Overwrite 
+/* 07 - Bootstrap Overwrite
 /*----------------------------------------*/
  .g-lg-4,.gy-lg-4, .g-4, .gy-4 {
      --bs-gutter-y: 2rem;
@@ -658,7 +658,7 @@ ul.pbmit-contact-info{
 }
 
 /*----------------------------------------*/
-/* 08 - Swiper 
+/* 08 - Swiper
 /*----------------------------------------*/
  .swiper-slider{
      margin-left: auto;
@@ -748,12 +748,12 @@ ul.pbmit-contact-info{
     width: auto!important;
 }
 .swiper-slider.marquee .swiper-wrapper{
-    -webkit-transition-timing-function:linear !important; 
-    -o-transition-timing-function:linear !important; 
-    transition-timing-function:linear !important; 
+    -webkit-transition-timing-function:linear !important;
+    -o-transition-timing-function:linear !important;
+    transition-timing-function:linear !important;
 }
 /*----------------------------------------*/
-/* 09 - Scroll To Top 
+/* 09 - Scroll To Top
 /*----------------------------------------*/
 .pbmit-progress-wrap {
 	position: fixed;
