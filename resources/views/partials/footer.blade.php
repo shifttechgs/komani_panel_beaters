@@ -70,12 +70,12 @@
                         <h2 class="widget-title">Useful Link</h2>
                         <div class="textwidget">
                             <ul>
-                                <li><a href="our-history.html">Home</a></li>
-                                <li><a href="about-us.html">Pricing</a></li>
-                                <li><a href="contact-us.html">About</a></li>
-                                <li><a href="contact-us.html">Blog</a></li>
-                                <li><a href="contact-us.html">Services</a></li>
-                                <li><a href="contact-us.html">Contact</a></li>
+                                <li><a href="#">Home</a></li>
+                                <li><a href="#">Pricing</a></li>
+                                <li><a href="#">About</a></li>
+                                <li><a href="#">Blog</a></li>
+                                <li><a href="#">Services</a></li>
+                                <li><a href="#">Contact</a></li>
                             </ul>
                         </div>
                     </div>

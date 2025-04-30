@@ -33,90 +33,90 @@
                                             <li class="dropdown active">
                                                 <a href="#">Home</a>
                                                 <ul>
-                                                    <li class="active"><a href="index.html">Homepage 01</a></li>
-                                                    <li><a href="homepage-2.html">Homepage 02</a></li>
+                                                    <li class="active"><a href="#">Landing Page</a></li>
+{{--                                                    <li><a href="homepage-2.html">Homepage 02</a></li>--}}
 {{--                                                    <li><a href="homepage-3.html">Homepage 03</a></li>--}}
                                                 </ul>
                                             </li>
                                             <li class="dropdown">
                                                 <a href="#">Pages</a>
                                                 <ul>
-                                                    <li><a href="about-us.html">About Us</a></li>
-                                                    <li><a href="our-plans.html">Our Plans</a></li>
-                                                    <li><a href="our-team.html">Our Team</a></li>
-                                                    <li><a href="team-single-detail.html">Team Member Detail</a></li>
-                                                    <li><a href="faq.html">Faq</a></li>
+                                                    <li><a href="">About Us</a></li>
+                                                    <li><a href="">Our Plans</a></li>
+                                                    <li><a href="">Our Team</a></li>
+{{--                                                    <li><a href="team-single-detail.html">Team Member Detail</a></li>--}}
+                                                    <li><a href="">Faq</a></li>
                                                 </ul>
                                             </li>
                                             <li class="dropdown">
                                                 <a href="#">Services</a>
                                                 <ul>
-                                                    <li><a href="services.html">Services</a></li>
-                                                    <li><a href="service-details.html">Service Detail</a></li>
+                                                    <li><a href="">Services</a></li>
+{{--                                                    <li><a href="#">Service Detail</a></li>--}}
                                                 </ul>
                                             </li>
                                             <li class="dropdown">
                                                 <a href="#">Portfolio</a>
-                                                <ul>
-                                                    <li class="dropdown">
-                                                        <a href="#">Masonry View</a>
-                                                        <ul>
-                                                            <li><a href="portfolio-m-grid-col-2.html">Grid Col 2</a></li>
-                                                            <li><a href="portfolio-m-grid-col-3.html">Grid Col 3</a></li>
-                                                            <li><a href="portfolio-m-grid-col-4.html">Grid Col 4</a></li>
-                                                            <li><a href="portfolio-m-grid-wide.html">Grid Wide</a></li>
-                                                        </ul>
-                                                    </li>
-                                                    <li class="dropdown">
-                                                        <a href="#">Grid View</a>
-                                                        <ul>
-                                                            <li><a href="portfolio-grid-col-2.html">Grid Col 2</a></li>
-                                                            <li><a href="portfolio-grid-col-3.html">Grid Col 3</a></li>
-                                                            <li><a href="portfolio-grid-col-4.html">Grid Col 4</a></li>
-                                                        </ul>
-                                                    </li>
-                                                    <li class="dropdown">
-                                                        <a href="#">Sortable View</a>
-                                                        <ul>
-                                                            <li><a href="portfolio-sortable-grid-col-2.html">Sortable Grid Col 2</a></li>
-                                                            <li><a href="portfolio-sortable-grid-col-3.html">Sortable Grid Col 3</a></li>
-                                                            <li><a href="portfolio-sortable-grid-col-4.html">Sortable Grid Col 4</a></li>
-                                                        </ul>
-                                                    </li>
-                                                    <li class="dropdown">
-                                                        <a href="#">Portfolio Single</a>
-                                                        <ul>
-                                                            <li><a href="portfolio-single-style-01.html">Portfolio Single Style 1</a></li>
-                                                            <li><a href="portfolio-single-style-02.html">Portfolio Single Style 2</a></li>
-                                                        </ul>
-                                                    </li>
-                                                </ul>
+{{--                                                <ul>--}}
+{{--                                                    <li class="dropdown">--}}
+{{--                                                        <a href="#">Masonry View</a>--}}
+{{--                                                        <ul>--}}
+{{--                                                            <li><a href="portfolio-m-grid-col-2.html">Grid Col 2</a></li>--}}
+{{--                                                            <li><a href="portfolio-m-grid-col-3.html">Grid Col 3</a></li>--}}
+{{--                                                            <li><a href="portfolio-m-grid-col-4.html">Grid Col 4</a></li>--}}
+{{--                                                            <li><a href="portfolio-m-grid-wide.html">Grid Wide</a></li>--}}
+{{--                                                        </ul>--}}
+{{--                                                    </li>--}}
+{{--                                                    <li class="dropdown">--}}
+{{--                                                        <a href="#">Grid View</a>--}}
+{{--                                                        <ul>--}}
+{{--                                                            <li><a href="portfolio-grid-col-2.html">Grid Col 2</a></li>--}}
+{{--                                                            <li><a href="portfolio-grid-col-3.html">Grid Col 3</a></li>--}}
+{{--                                                            <li><a href="portfolio-grid-col-4.html">Grid Col 4</a></li>--}}
+{{--                                                        </ul>--}}
+{{--                                                    </li>--}}
+{{--                                                    <li class="dropdown">--}}
+{{--                                                        <a href="#">Sortable View</a>--}}
+{{--                                                        <ul>--}}
+{{--                                                            <li><a href="portfolio-sortable-grid-col-2.html">Sortable Grid Col 2</a></li>--}}
+{{--                                                            <li><a href="portfolio-sortable-grid-col-3.html">Sortable Grid Col 3</a></li>--}}
+{{--                                                            <li><a href="portfolio-sortable-grid-col-4.html">Sortable Grid Col 4</a></li>--}}
+{{--                                                        </ul>--}}
+{{--                                                    </li>--}}
+{{--                                                    <li class="dropdown">--}}
+{{--                                                        <a href="#">Portfolio Single</a>--}}
+{{--                                                        <ul>--}}
+{{--                                                            <li><a href="portfolio-single-style-01.html">Portfolio Single Style 1</a></li>--}}
+{{--                                                            <li><a href="portfolio-single-style-02.html">Portfolio Single Style 2</a></li>--}}
+{{--                                                        </ul>--}}
+{{--                                                    </li>--}}
+{{--                                                </ul>--}}
                                             </li>
                                             <li class="dropdown">
                                                 <a href="#">Blog</a>
-                                                <ul>
-                                                    <li class="dropdown">
-                                                        <a href="#">Blog Masonry View</a>
-                                                        <ul>
-                                                            <li><a href="blog-m-grid-col-2.html">Grid Col 2</a></li>
-                                                            <li><a href="blog-m-grid-col-3.html">Grid Col 3</a></li>
-                                                            <li><a href="blog-m-grid-col-4.html">Grid Col 4</a></li>
-                                                            <li><a href="blog-masonry-wide.html">Masonry Wide</a></li>
-                                                        </ul>
-                                                    </li>
-                                                    <li class="dropdown">
-                                                        <a href="#">Blog Grid View</a>
-                                                        <ul>
-                                                            <li><a href="blog-grid-col-3.html">Grid Col 3</a></li>
-                                                            <li><a href="blog-grid-col-4.html">Grid Col 4</a></li>
-                                                            <li><a href="blog-sortable-grid-view.html">Sortable Grid View</a></li>
-                                                        </ul>
-                                                    </li>
-                                                    <li><a href="blog-classic.html">Blog Classic</a></li>
-                                                    <li><a href="blog-single-details.html">Blog Single Detail</a></li>
-                                                </ul>
+{{--                                                <ul>--}}
+{{--                                                    <li class="dropdown">--}}
+{{--                                                        <a href="#">Blog Masonry View</a>--}}
+{{--                                                        <ul>--}}
+{{--                                                            <li><a href="blog-m-grid-col-2.html">Grid Col 2</a></li>--}}
+{{--                                                            <li><a href="blog-m-grid-col-3.html">Grid Col 3</a></li>--}}
+{{--                                                            <li><a href="blog-m-grid-col-4.html">Grid Col 4</a></li>--}}
+{{--                                                            <li><a href="blog-masonry-wide.html">Masonry Wide</a></li>--}}
+{{--                                                        </ul>--}}
+{{--                                                    </li>--}}
+{{--                                                    <li class="dropdown">--}}
+{{--                                                        <a href="#">Blog Grid View</a>--}}
+{{--                                                        <ul>--}}
+{{--                                                            <li><a href="blog-grid-col-3.html">Grid Col 3</a></li>--}}
+{{--                                                            <li><a href="blog-grid-col-4.html">Grid Col 4</a></li>--}}
+{{--                                                            <li><a href="blog-sortable-grid-view.html">Sortable Grid View</a></li>--}}
+{{--                                                        </ul>--}}
+{{--                                                    </li>--}}
+{{--                                                    <li><a href="blog-classic.html">Blog Classic</a></li>--}}
+{{--                                                    <li><a href="blog-single-details.html">Blog Single Detail</a></li>--}}
+{{--                                                </ul>--}}
                                             </li>
-                                            <li><a href="contact-us.html">Contact Us</a></li>
+                                            <li><a href="">Contact Us</a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -139,7 +139,7 @@
                         </div>
                         <div class="pbmit-button-box-second">
                             <div>
-                                <a class="pbmit-btn pbmit-btn-outline" href="contact-us.html">
+                                <a class="pbmit-btn pbmit-btn-outline" href="">
 											<span class="pbmit-button-content-wrapper">
 												<span class="pbmit-button-icon">
 													<svg xmlns="http://www.w3.org/2000/svg" width="22.76" height="22.76" viewBox="0 0 22.76 22.76">
@@ -172,11 +172,11 @@
                             <div class="row">
                                 <div class="col-md-10">
                                     <div class="pbmit-slider-content">
-                                        <h5 class="pbmit-sub-title transform-delay-1">Needs Professional Cleaning</h5>
+                                        <h5 class="pbmit-sub-title transform-delay-1">Needs Professional Panel Beating</h5>
                                         <h2 class="pbmit-title transform-left transform-delay-2">Auto maintenance, <br> service & repair</h2>
                                         <p class="pbmit-desc transform-bottom transform-delay-3">Hire us! We are a professional cleaning company offering services.</p>
                                         <div class="pbmit-button transform-bottom transform-delay-4">
-                                            <a class="pbmit-btn pbmit-btn-hover-white" href="service-details.html">
+                                            <a class="pbmit-btn pbmit-btn-hover-white" href="#">
 														<span class="pbmit-button-content-wrapper">
 															<span class="pbmit-button-icon">
 																<svg xmlns="http://www.w3.org/2000/svg" width="22.76" height="22.76" viewBox="0 0 22.76 22.76">
@@ -210,7 +210,7 @@
                                         <h2 class="pbmit-title transform-left transform-delay-2">Performance Without <br> Compromise</h2>
                                         <p class="pbmit-desc transform-bottom transform-delay-3">Hire us! We are a professional cleaning company offering services.</p>
                                         <div class="pbmit-button transform-bottom transform-delay-4">
-                                            <a class="pbmit-btn pbmit-btn-hover-white" href="service-details.html">
+                                            <a class="pbmit-btn pbmit-btn-hover-white" href="#">
 														<span class="pbmit-button-content-wrapper">
 															<span class="pbmit-button-icon">
 																<svg xmlns="http://www.w3.org/2000/svg" width="22.76" height="22.76" viewBox="0 0 22.76 22.76">
@@ -244,7 +244,7 @@
                                         <h2 class="pbmit-title transform-left transform-delay-2">Exceptional service <br> workmanship</h2>
                                         <p class="pbmit-desc transform-bottom transform-delay-3">Hire us! We are a professional cleaning company offering services.</p>
                                         <div class="pbmit-button transform-bottom transform-delay-4">
-                                            <a class="pbmit-btn pbmit-btn-hover-white" href="service-details.html">
+                                            <a class="pbmit-btn pbmit-btn-hover-white" href="#">
 														<span class="pbmit-button-content-wrapper">
 															<span class="pbmit-button-icon">
 																<svg xmlns="http://www.w3.org/2000/svg" width="22.76" height="22.76" viewBox="0 0 22.76 22.76">
